@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs/03_InputOutput/v17/Browse.VC.db
+/.vs/03_InputOutput/v17/Browse.VC.opendb
+/.vs/03_InputOutput/FileContentIndex/5dfa0fb5-b7fb-48fd-8f17-a44976eeaab6.vsidx
+/.vs/03_InputOutput/FileContentIndex/8039bc4d-96a0-43be-9164-cafc8aa2f19d.vsidx
+/.vs/03_InputOutput/FileContentIndex/9111f5d0-9c54-4fce-ba44-5a7b40c8df2b.vsidx
